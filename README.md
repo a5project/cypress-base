@@ -6,3 +6,4 @@ Base Docker image for Cypress.
 
 `nvm use`
 
+`docker image build -t dasigr/cypress-base .`

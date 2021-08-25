@@ -1,5 +1,5 @@
 {
-  "name": "a5project/cypress:1.0.0",
+  "name": "cypress-base",
   "version": "1.0.0",
   "description": "Base Docker image for Cypress.",
   "main": "index.js",
